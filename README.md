@@ -1,3 +1,7 @@
+来源：https://segmentfault.com/q/1010000002513406
+
+资料：http://www.cnblogs.com/justany/p/3279717.html
+
 [![build status](https://secure.travis-ci.org/miniflycn/url-extract.png)](http://travis-ci.org/miniflycn/url-extract)
 [![Coverage Status](https://coveralls.io/repos/miniflycn/url-extract/badge.png?branch=master)](https://coveralls.io/r/miniflycn/url-extract?branch=master)
 # url-extract
